@@ -1,7 +1,9 @@
 Enter file contents here# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-.idea
+*.idea/
+idea/
+.idea/
 # C extensions
 *.so
 
